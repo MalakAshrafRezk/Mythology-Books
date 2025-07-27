@@ -98,7 +98,7 @@
     <p class="intro">Here's a look at some captivating books on mythology:</p>
 
     <div class="book-card">
-      <img src="Images/Mythos.jpeg" alt="Mythos">
+      <img src="Mythos.jpeg" alt="Mythos">
       <h3>N.1 Mythos</h3>
       <div class="author">by Stephen Fry</div>
       <div class="description">A witty and accessible retelling of Greek myths in modern style.</div>
@@ -106,7 +106,7 @@
     </div>
 
     <div class="book-card">
-      <img src="Images/Norse Mythology.jpeg" alt="Norse Mythology">
+      <img src="Norse Mythology.jpeg" alt="Norse Mythology">
       <h3>N.2 Norse Mythology</h3>
       <div class="author">by Neil Gaiman</div>
       <div class="description">A captivating journey through the world of Norse gods and legends.</div>
@@ -114,7 +114,7 @@
     </div>
 
     <div class="book-card">
-      <img src="Images/The Power of Myth.jpg" alt="The Power of Myth">
+      <img src="The Power of Myth.jpg" alt="The Power of Myth">
       <h3>N.3 The Power Of Myth</h3>
       <div class="author">by Joseph Campbell & Bill Moyers</div>
       <div class="description">Explores timeless themes of myths from all around the world.</div>
